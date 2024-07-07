@@ -1,4 +1,4 @@
-Name : AYUSHI  Company : CODTECH IT SOLUTIONS ID : CT6WDS74 Domain : VLSI Duration :20th JUNE 2024 to 20th JULY 2024 Mentor : SRAVANI GOUNI
+Name : AYUSHI  Company : CODTECH IT SOLUTIONS ID : CT4VLSI2708  Domain : VLSI Duration :20th JUNE 2024 to 20th JULY 2024 Mentor : SRAVANI GOUNI
 ![Task2](https://github.com/ayushiraj0/CODTECH-Task2/assets/156299726/aa8b035c-2cef-4eed-913a-2e9dd1d42bbb)
 Project Overview: Designing and Testing a Finite State Machine (FSM) in Verilog using ModelSim
 Objective
